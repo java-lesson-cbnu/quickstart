@@ -6,7 +6,7 @@
 ### 목차
 
 #### 1. IDE와 개발 환경
-- [기초 환경 설정하기](parts/01_setting_java.md)
+- [기초 환경 설정하기](parts/01_setting_java/README.md)
 - [IDE 고르는 법]()
   - [Eclipse]()
   - [IntelliJ]()
