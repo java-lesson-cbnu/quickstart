@@ -17,7 +17,7 @@ JDK가 설치되어있는지 확인하려면, 다음과 같은 방법을 따릅�
    ![javac 실행 성공 예제](../../images/01/valid_jdk.png)<br>
    만약, 다음과 같은 로그가 발생한다면 JDK가 설치되지 않은것으로 간주합니다. <br>
    ![javac 실행 성공 예제](../../images/01/invalid_javac.png)
-
+<br><br><br>
 ### JDK 설치하기
 
 현재의 JDK는 OpenJDK로부터 내려와 수많은 변종이 존재합니다.
