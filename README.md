@@ -3,6 +3,8 @@
 
 또한, 조금 더 자바에 대해 알아보고 싶은 학부생들을 위해 간단한 자바 기초에 대해 추가적으로 설명합니다.
 
+**⚠️ 현재 해당 문서는 작성중에 있으며, 최종본이 아닙니다. 문서는 예고 없이 내용이 변경될 수 있습니다.**
+
 ### 목차
 
 #### 1. IDE와 개발 환경
@@ -14,5 +16,5 @@
 
 #### x. IDE 오류에 대한 대처 방안
 - 인코딩 문제 (한글 깨짐)
-  - [Eclipse]()
-  - [IntelliJ]()
+  - [Eclipse](parts/extra_how_to_fix_encoding/eclipse/README.md)
+  - [IntelliJ](parts/extra_how_to_fix_encoding/intellij/README.md)
