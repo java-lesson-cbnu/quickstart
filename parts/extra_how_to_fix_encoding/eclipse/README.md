@@ -21,7 +21,7 @@
    ![이클립스 Preference](../../../images/extra/eclipse_preference_workspace.png)
 9. 우측 탭의 **Text file Encoding**이 `Other: UTF-8`이 아니면, **Other** 라디오 버튼을 클릭하고, UTF-8로 조정한 다음, Apply를 누릅니다.<br>
    ![이클립스 Preference](../../../images/extra/eclipse_update_workspace_conding.png)
-10. Apply and CLose를 누릅니다.  <br>
+10. Apply and Close를 누릅니다.  <br>
     ![이클립스 Preference](../../../images/extra/eclipse_save_and_close_preference.png)
 
 ### 콘솔 한글 꺠짐 고치기
