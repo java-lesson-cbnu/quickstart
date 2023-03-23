@@ -7,13 +7,12 @@
 
 #### 1. IDE와 개발 환경
 - [기초 환경 설정하기](parts/01_setting_java/README.md)
-- [IDE 고르는 법]()
-  - [Eclipse]()
-  - [IntelliJ]()
+- [IDE 고르는 법](parts/02_about_ide/README.md)
+  - [Eclipse](https://github.com/java-lesson-cbnu/quickstart/tree/main/parts/02_about_ide#eclipse-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
+  - [IntelliJ](https://github.com/java-lesson-cbnu/quickstart/tree/main/parts/02_about_ide#intellij-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
 
 
-#### 9. IDE 오류에 대한 대처 방안
-
+#### x. IDE 오류에 대한 대처 방안
 - 인코딩 문제 (한글 깨짐)
   - [Eclipse]()
   - [IntelliJ]()
